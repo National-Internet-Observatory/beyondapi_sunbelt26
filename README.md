@@ -1,14 +1,14 @@
-# Beyond APIs: ICWSM 2026 Tutorial Website
+# Beyond APIs: Sunbelt 2026 Workshop Website
 
-This repository contains the website for the "Beyond APIs: Collecting Online Activity Data for Research using the National Internet Observatory" tutorial at ICWSM 2026.
+This repository contains the website for the "Beyond APIs: Collecting Online Activity Data for Research using the National Internet Observatory" workshop at [Sunbelt 2026](https://www.insna.org/events/sunbelt-2026---daytona-beach).
 
-The website is live at https://national-internet-observatory.github.io/beyondapi_icwsm26
+The website is live at https://national-internet-observatory.github.io/beyondapi_sunbelt26
 
 ## Overview
 
-This is a static website for the ICWSM 2026 tutorial that introduces the National Internet Observatory (NIO), an alternative data collection framework and infrastructure designed to help researchers study online behavior. The website provides information about the tutorial, including:
+This is a static website for the Sunbelt 2026 workshop that introduces the National Internet Observatory (NIO), an alternative data collection framework and infrastructure designed to help researchers study online behavior. The website provides information about the workshop, including:
 
-- Tutorial abstract and description
+- Workshop abstract and description
 - Prerequisites for participation
 - Schedule and duration details
 - Learning outcomes
@@ -29,7 +29,7 @@ The website consists of the following key files:
 - Responsive design that works on desktop and mobile devices
 - Sticky navigation bar for easy section access
 - Smooth scrolling between sections
-- Organized presentation of tutorial details
+- Organized presentation of workshop details
 - Contact information for organizers
 
 ## Local Development
